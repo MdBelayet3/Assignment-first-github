@@ -1,11 +1,10 @@
-# 🎉 Landing Page Project
+# Landing Page Project
 
 This is a static landing page project built using HTML and CSS.  
 It is designed to practice real-world website structure and UI section building.
 
----
 
-## 🚀 Project Overview
+## Project Overview
 
 This website is a static landing page that includes multiple sections such as:
 
@@ -17,17 +16,15 @@ This website is a static landing page that includes multiple sections such as:
 - Newsletter subscription section  
 - Footer section  
 
----
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5  
 - CSS3  
 - Google Fonts  
 
----
 
-## ✨ Features
+## Features
 
 - Full landing page design  
 - Multiple structured sections  
@@ -38,9 +35,8 @@ This website is a static landing page that includes multiple sections such as:
 - Footer with contact and social icons  
 - Clean section-based HTML structure  
 
----
 
-## 📚 What I Learned
+## What I Learned
 
 - Building multi-section landing pages  
 - Using background images in CSS  
@@ -49,27 +45,6 @@ This website is a static landing page that includes multiple sections such as:
 - Using Google Fonts effectively  
 - Creating real-world UI sections  
 
----
 
-## 🔮 Future Improvements
-
-- Make the website fully responsive  
-- Add JavaScript interactivity  
-- Improve animations and transitions  
-- Optimize UI for mobile devices  
-- Connect newsletter form with backend  
-
----
-
-## 👨‍💻 Author
-
-**Belayet Hossain**  
-Aspiring Full-Stack Web Developer  
-
-GitHub: https://github.com/MdBelayet3  
-
----
-
-## 📌 Note
 
 This project was created for learning and practice purposes while improving frontend development skills.
