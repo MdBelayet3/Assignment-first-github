@@ -28,11 +28,3 @@ It helped me improve my understanding of webpage structure and external CSS styl
 - Reusable CSS classes
 
 
-## 📂 Project Structure
-
-```bash
-Assignment-first-github/
-│
-├── index.html
-└── styles/
-    └── my-blog.css
